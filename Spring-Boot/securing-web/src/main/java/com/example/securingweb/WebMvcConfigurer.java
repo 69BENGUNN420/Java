@@ -12,3 +12,4 @@ public class WebMvcConfigurer {
         registry.addViewController("/login").setViewName("login");
     }
 }
+it
